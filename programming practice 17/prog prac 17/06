@@ -1,0 +1,7 @@
+name = input()
+print(name, "is very cute.")
+typ = input()
+age = int(input())
+vaccstat = bool(input())
+if age<=1:
+    print("Your pet is a baby.")
